@@ -416,6 +416,3 @@ Author
 Muhammad Taha Ali
 
 Computer Systems Engineering
-
-
-That version is much more complete and GitHub-ready. Once **SRLI and SRAI pass**, just change the last two status lines from `[ ]` to `[x]`. 🔥
